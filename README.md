@@ -20,6 +20,5 @@ I have not personally tested this and take no responsibility
 # \*** PLEASE NOTE! \*** When ordering TantalACEr's you need to make sure you select "castellated holes" and "edge plating" in the advanced options \***
 
 ![GitHub Image](/Frontunpopulated.JPG)
-![GitHub Image](/Frontpopulated.JPG)
 ![GitHub Image](/back.JPG)
 ![GitHub Image](/8790.JPG)
