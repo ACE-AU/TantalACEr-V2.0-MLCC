@@ -21,4 +21,4 @@ I have not personally tested this and take no responsibility
 
 ![GitHub Image](/Frontunpopulated.JPG)
 ![GitHub Image](/back.JPG)
-![GitHub Image](/8790.JPG)
+![GitHub Image](/installed.JPG)
